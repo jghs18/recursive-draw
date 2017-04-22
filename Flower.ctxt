@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Flower(int,\ int)
+comment1.params=count\ length\ xPos\ yPos\ b
+comment1.target=void\ draw(int,\ double,\ double,\ double,\ boolean)
+comment2.params=x\ y\ count\ length
+comment2.target=void\ drawTop(double,\ double,\ int,\ double)
+comment3.params=
+comment3.target=void\ drawStem()
+comment4.params=count\ x\ y\ r
+comment4.target=void\ drawBack(int,\ int,\ int,\ int)
+numComments=5
